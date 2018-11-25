@@ -1,3 +1,4 @@
+# Yet Another Voteban 1.8
 Удобный и симпатичный голосовальщик за бан игроков, для Ваших великолепных серверов Counter-Strike 1.6.
 
 Авторы: [AndrewZo](https://github.com/AndrewZo), [voed](https://github.com/voed).
