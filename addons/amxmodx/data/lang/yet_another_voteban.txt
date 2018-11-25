@@ -1,0 +1,105 @@
+[en]
+VOTEBAN_ADD_REASON_1 = Cheats
+VOTEBAN_ADD_REASON_2 = Abuse
+VOTEBAN_ADD_REASON_3 = Speedhack
+VOTEBAN_ADD_REASON_4 = Wallhack
+VOTEBAN_ADD_REASON_5 = Auto aim
+
+VOTEBAN_MENU_TITLE = Vote for ban
+VOTEBAN_MENU_TIME_TITLE	= Select ban time
+VOTEBAN_MENU_PLAYERS_TITLE = Select player
+VOTEBAN_MENU_REASON_TITLE = Select ban reason
+
+VOTEBAN_MENU_PLAYER = Player:
+VOTEBAN_MENU_REASON = Reason:
+VOTEBAN_MENU_TIME = Ban time:
+VOTEBAN_MENU_INITIATOR = Initiator:
+VOTEBAN_MENU_SELECT_PLAYER = Select player...
+VOTEBAN_MENU_ENTER_REASON = Enter ban reason...
+VOTEBAN_MENU_START_VOTE = Start vote!
+VOTEBAN_MENU_NOTIFY = Notify admins (\y%d online\w)
+VOTEBAN_MENU_MINUTES = min.
+VOTEBAN_MENU_YES = \rVote for
+VOTEBAN_MENU_NO = Vote against
+
+VOTEBAN_MENU_NEXT = Next
+VOTEBAN_MENU_BACK = Back
+VOTEBAN_MENU_EXIT = Exit
+
+VOTEBAN_ADMIN_NOTIFIED = %d admin(s) notificated about your complaint.
+VOTEBAN_ADMIN_NOTIFICATION = %n wants to ban %n for !g"%s"!n.
+VOTEBAN_IMMUNITY = Selected player player has immunity.
+VOTEBAN_LEAVE = Selected player is not available for vote, maybe he left the server.
+VOTEBAN_NEED_PLAYER = You must select player.
+VOTEBAN_NEED_REASON = You must enter ban reason.
+VOTEBAN_WHO_START = %n started voting for ban !g%n!n (!g%s!n).
+VOTEBAN_NO_ACCESS = Sorry, you don't have access to vote for ban.
+VOTEBAN_YOU_ADMIN = Use your ban-menu.
+VOTEBAN_STARTED = Voting for ban already started.
+VOTEBAN_BLOCKED = Voting for ban is not available
+VOTEBAN_BLOCKED_BUYTIME = at buytime.
+VOTEBAN_BLOCKED_FREEZETIME = at freezetime.
+VOTEBAN_BLOCKED_TIME = for %d sec. at round start.
+VOTEBAN_DELAY = You must wait %d min. after previous voting for ban.
+VOTEBAN_NOT_ENOUGH_PLAYERS = Not enough players online to start voting for ban.
+VOTEBAN_ALREADY_STARTED = Voting for ban already started.
+VOTEBAN_ALREADY_FINISHED = Voting for ban already finished.
+VOTEBAN_BANNED = !g%n!n banned due to voting for ban!
+VOTEBAN_ENDED = Voting for ban !g%n!n failed.
+VOTEBAN_WRITING_REASON = Writing reason for ban manually.
+VOTEBAN_PLAYER_LEFT = Player !g%n!n left the server, voting for ban canceled.
+
+VOTEBAN_VOTE = For ban %n voted: %d, need: %d, (min %d).
+
+[ru]
+VOTEBAN_ADD_REASON_1 = Читы
+VOTEBAN_ADD_REASON_2 = Оскорбления
+VOTEBAN_ADD_REASON_3 = Спидхак
+VOTEBAN_ADD_REASON_4 = Видит через стены
+VOTEBAN_ADD_REASON_5 = Аим
+
+VOTEBAN_MENU_TITLE = Голосование за бан
+VOTEBAN_MENU_TIME_TITLE	= Выбор срока бана
+VOTEBAN_MENU_PLAYERS_TITLE = Выбор игрока
+VOTEBAN_MENU_REASON_TITLE = Выбор причины бана
+
+VOTEBAN_MENU_PLAYER = Игрок:
+VOTEBAN_MENU_REASON = Причина:
+VOTEBAN_MENU_TIME = Время бана:
+VOTEBAN_MENU_INITIATOR = Инициатор:
+VOTEBAN_MENU_SELECT_PLAYER = Выбрать игрока...
+VOTEBAN_MENU_ENTER_REASON = Ввести причину бана...
+VOTEBAN_MENU_START_VOTE = Начать голосование!
+VOTEBAN_MENU_NOTIFY = Сообщить админу (\y%d в сети\w)
+VOTEBAN_MENU_MINUTES = мин.
+VOTEBAN_MENU_YES = \rЗабанить
+VOTEBAN_MENU_NO = Не банить
+
+VOTEBAN_MENU_NEXT = Далее
+VOTEBAN_MENU_BACK = Назад
+VOTEBAN_MENU_EXIT = Выход
+
+VOTEBAN_ADMIN_NOTIFIED = Администраторов уведомлено о вашей жалобе: %d.
+VOTEBAN_ADMIN_NOTIFICATION = %n хочет забанить %n за !g"%s"!n.
+VOTEBAN_IMMUNITY = Выбранный игрок имеет иммунитет к бану.
+VOTEBAN_LEAVE = Этот игрок недоступен для выбора, возможно он покинул сервер.
+VOTEBAN_NEED_PLAYER = Вы должны выбрать игрока.
+VOTEBAN_NEED_REASON = Вы должны ввести причину бана.
+VOTEBAN_WHO_START = %n начал голосование за бан !g%n!n (!g%s!n)!
+VOTEBAN_NO_ACCESS = К сожалению, у вас нет доступа к голосованию за бан.
+VOTEBAN_YOU_ADMIN = Используйте своё бан-меню.
+VOTEBAN_STARTED = Голосование за бан уже идёт.
+VOTEBAN_BLOCKED = Голосование за бан заблокировано
+VOTEBAN_BLOCKED_BUYTIME = во время покупки оружия.
+VOTEBAN_BLOCKED_FREEZETIME = во время фризтайма.
+VOTEBAN_BLOCKED_TIME = на %d сек. в начале раунда.
+VOTEBAN_DELAY = Вы должны подождать еще %d мин. после предыдущего голосования.
+VOTEBAN_NOT_ENOUGH_PLAYERS = Недостаточно игроков, чтобы начать голосование.
+VOTEBAN_ALREADY_STARTED = В данный момент уже идёт голосование.
+VOTEBAN_ALREADY_FINISHED = Голосование уже закончено.
+VOTEBAN_BANNED = !g%n!n забанен через голосование!
+VOTEBAN_ENDED = Голосование за бан !g%n!n провалено.
+VOTEBAN_WRITING_REASON = Активирован ввод причины бана вручную.
+VOTEBAN_PLAYER_LEFT = Игрок !g%n!n вышел, голосование отменено.
+
+VOTEBAN_VOTE = За бан %n проголосовали: %d, нужно: %d, (минимум %d).
